@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.288b25a9.css",
+    "main.js": "/static/js/main.6f42674f.js",
+    "static/media/bg-texture.png": "/static/media/bg-texture.65e0e0e5be1576157464.png",
+    "static/media/me.JPG": "/static/media/me.48dc73a6a91e7efa3e64.JPG",
+    "static/media/yolo.png": "/static/media/yolo.524ce8392f84439fc23b.png",
+    "static/media/restaurant.png": "/static/media/restaurant.b65974f2759ebcde6f4e.png",
+    "static/media/bmw.png": "/static/media/bmw.c69e4cdb51c66d93d650.png",
+    "static/media/me2.JPG": "/static/media/me2.b9f0d1fd69c84031f4c4.JPG",
+    "static/media/yitao-zhou-resume.pdf": "/static/media/yitao-zhou-resume.11466b76d4616dc9e140.pdf",
+    "index.html": "/index.html",
+    "main.288b25a9.css.map": "/static/css/main.288b25a9.css.map",
+    "main.6f42674f.js.map": "/static/js/main.6f42674f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288b25a9.css",
+    "static/js/main.6f42674f.js"
+  ]
+}
